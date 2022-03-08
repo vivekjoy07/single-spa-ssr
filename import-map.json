@@ -1,0 +1,17 @@
+{
+  "imports": {
+    "react": "https://cdn.jsdelivr.net/npm/react@16.13.1/umd/react.production.min.js",
+    "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js",
+    "@isomorphic-mf/navbar": "https://d28ujhkhiaqzlu.cloudfront.net/navbar/latest/isomorphic-mf-navbar.js",
+    "@isomorphic-mf/navbar/": "https://d28ujhkhiaqzlu.cloudfront.net/navbar/latest/",
+    "@isomorphic-mf/plp": "https://d28ujhkhiaqzlu.cloudfront.net/plp/latest/isomorphic-mf-plp.js",
+    "@isomorphic-mf/plp/": "https://d28ujhkhiaqzlu.cloudfront.net/plp/latest/",
+    "@isomorphic-mf/pdp": "https://d28ujhkhiaqzlu.cloudfront.net/pdp/latest/isomorphic-mf-pdp.js",
+    "@isomorphic-mf/pdp/": "https://d28ujhkhiaqzlu.cloudfront.net/pdp/latest/",
+    "@isomorphic-mf/tst": "http://localhost:8080/isomorphic-mf-tst.js",
+    "@isomorphic-mf/tst/": "http://localhost:8080/",
+    "@isomorphic-mf/root-config": "https://storage.googleapis.com/isomorphic.microfrontends.app/root-config/016db7599625c5e00526f64850e0c845201d0f81/isomorphic-mf-root-config.js",
+    "@isomorphic-mf/root-config/": "https://storage.googleapis.com/isomorphic.microfrontends.app/root-config/016db7599625c5e00526f64850e0c845201d0f81/",
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.3/lib/system/single-spa.min.js"
+  }
+}
