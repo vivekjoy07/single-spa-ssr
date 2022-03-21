@@ -99,7 +99,7 @@ export default function NavBar({ title, themeChange }) {
               color="inherit"
               // target="_blank"
               // href="https://github.com/isomorphic-microfrontends"
-              href="/tst"
+              href="/tstest"
               onClick={navigateToUrl}
             >
               <GitHubIcon />

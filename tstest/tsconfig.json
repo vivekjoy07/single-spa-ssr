@@ -1,12 +1,13 @@
 {
   "extends": "ts-config-single-spa",
   "compilerOptions": {
-    "jsx": "react-jsx",
+    "jsx": "react",
     "declarationDir": "dist",
+    "outDir": "dist",
     "skipLibCheck": true,
     "allowJs": true
   },
-  "files": ["src/isomorphic-mf-tst.tsx"],
+  "files": ["src/isomorphic-mf-tstest.js"],
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test*"]
 }
