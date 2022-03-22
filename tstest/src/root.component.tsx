@@ -47,7 +47,7 @@ export default function Root(props) {
       <StylesProvider generateClassName={generateClassName}>
         <ThemeProvider theme={theme}>
           <CssBaseline />
-          <section>
+          <section id="tstest" data-testid="tstest">
             <Title label="TS TEST" color="red" />
           </section>
         </ThemeProvider>
